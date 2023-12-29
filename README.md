@@ -19,8 +19,17 @@ In this case study, we will explore the UK Road Accident dataset to analyze diff
 
 By answering these questions, we can gain valuable insights into the factors that contribute to road accidents and identify areas where interventions may be necessary to reduce the occurrence of accidents.      
 
-# *PREPARE*
+# *PROCESS*
 The dataset contains an array of information, ranging from geographic locations to weather conditions, vehicle types, and the number of casualties involved. This comprehensive and fascinating collection of data provides an excellent opportunity for in-depth analysis and research, and the Department of Transport is responsible for publishing it.
 
 # *Process* 
 + Refer :- cleaning and preparation of data.ipynb
++ after performing the above ipynb we get Cleaned data
+
+# *ANALYZE*
+## *USING MYSQL*
+-- check data
+
+'''sql
+SELECT * FROM accidents;
+'''
