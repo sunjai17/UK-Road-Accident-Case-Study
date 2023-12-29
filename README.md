@@ -30,6 +30,8 @@ The dataset contains an array of information, ranging from geographic locations 
 ## *USING MYSQL*
 -- check data
 
-'''sql
+```sql
 SELECT * FROM accidents;
-'''
+```
+
+
