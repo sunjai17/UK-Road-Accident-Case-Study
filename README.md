@@ -1,4 +1,4 @@
-# Case Study - UK Road Accident Using Python, SQL and Tableau
+# Case Study - UK Road Accident Using Python, SQL and PowerBI
 # *Introduction*
 The case study involves a Dataset of UK Accidents.
 
@@ -160,3 +160,7 @@ GROUP BY
 ORDER BY 
     Num_Accidents DESC;
 ```
+# *VISUALIZATION*
+## *DYNAMIC DASHBOARD USING POWERBI*
+
+The visualization of data has become an integral part of data analysis. Among various tools available, PowerBi is one of the most popular and user-friendly data visualization tools that is widely used in the industry. With PowerBi, users can easily create interactive dashboards, charts, and graphs that help to visualize complex data sets in a meaningful way
