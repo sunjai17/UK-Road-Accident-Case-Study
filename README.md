@@ -164,3 +164,6 @@ ORDER BY
 ## *DYNAMIC DASHBOARD USING POWERBI*
 
 The visualization of data has become an integral part of data analysis. Among various tools available, PowerBi is one of the most popular and user-friendly data visualization tools that is widely used in the industry. With PowerBi, users can easily create interactive dashboards, charts, and graphs that help to visualize complex data sets in a meaningful way
+
+![1685796275455 (1)](https://github.com/sunjai17/UK-Road-Accident-Case-Study/assets/150026264/73df7ac0-cd95-4150-affd-8f69038872bf)
+
